@@ -1,0 +1,20 @@
+image dimensions 100x72
+Time elapsed was 195034ns or 0.000195034s
+image dimensions 100x72
+Time elapsed was 184349ns or 0.000184349s
+image dimensions 100x72
+Time elapsed was 234663ns or 0.000234663s
+image dimensions 100x72
+Time elapsed was 270217ns or 0.000270217s
+image dimensions 100x72
+Time elapsed was 173906ns or 0.000173906s
+image dimensions 100x72
+Time elapsed was 212219ns or 0.000212219s
+image dimensions 100x72
+Time elapsed was 170790ns or 0.000170790s
+image dimensions 100x72
+Time elapsed was 258612ns or 0.000258612s
+image dimensions 100x72
+Time elapsed was 840057ns or 0.000840057s
+image dimensions 100x72
+Time elapsed was 825573ns or 0.000825573s
